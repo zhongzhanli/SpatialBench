@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/mnt/datadisk/lizhongzhan/SpaMultiOmics/Benchmark/external/Graspot/")
+sys.path.append("../../Benchmark/external/Graspot/")
 from Graspot import Cal_Spatial_Net, train_Graspot_Sub
 import scanpy as sc
 import pandas as pd
