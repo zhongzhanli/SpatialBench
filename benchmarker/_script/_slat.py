@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/mnt/datadisk/lizhongzhan/SpaMultiOmics/Benchmark/external/SLAT/')
+sys.path.append('../../Benchmark/external/SLAT/')
 import scSLAT
 from scSLAT.model import load_anndatas, Cal_Spatial_Net, run_SLAT, run_SLAT_multi
 import scanpy as sc
