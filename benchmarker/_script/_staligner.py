@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/mnt/datadisk/lizhongzhan/SpaMultiOmics/Benchmark/external/STAligner/')
+sys.path.append('../../Benchmark/external/STAligner/')
 import STAligner
 import scanpy as sc
 import pandas as pd
