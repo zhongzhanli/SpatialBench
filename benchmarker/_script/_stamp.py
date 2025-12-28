@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/mnt/datadisk/lizhongzhan/SpaMultiOmics/Benchmark/external/scTM/")
+sys.path.append("../../Benchmark/external/scTM/")
 import sctm
 import scanpy as sc
 import pandas as pd
