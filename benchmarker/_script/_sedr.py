@@ -1,7 +1,7 @@
 import os
 os.environ['OPENBLAS_NUM_THREADS'] = '1'
 import sys
-sys.path.append("/mnt/datadisk/lizhongzhan/SpaMultiOmics/Benchmark/external/SEDR/")
+sys.path.append("../../Benchmark/external/SEDR/")
 import SEDR
 import scanpy as sc
 import pandas as pd
