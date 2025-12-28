@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/mnt/datadisk/lizhongzhan/SpaMultiOmics/Benchmark/external/spaVAE/spaVAE_Batch")
+sys.path.append("../../Benchmark/external/spaVAE/spaVAE_Batch")
 from time import time
 import torch
 from spaVAE_Batch import SPAVAE
