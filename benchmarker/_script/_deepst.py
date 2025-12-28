@@ -1,5 +1,5 @@
 import sys
-sys.path.append("/mnt/datadisk/lizhongzhan/SpaMultiOmics/Benchmark/external/DeepST/")
+sys.path.append("../../Benchmark/external/DeepST/")
 import deepstkit as dt
 import os
 import scanpy as sc
