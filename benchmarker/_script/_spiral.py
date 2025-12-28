@@ -1,5 +1,5 @@
 import sys
-sys.path.append('/mnt/datadisk/lizhongzhan/SpaMultiOmics/Benchmark/external/SPIRAL/')
+sys.path.append('../../Benchmark/external/SPIRAL/')
 from spiral.main import SPIRAL_integration
 from spiral.layers import *
 from spiral.utils import *
