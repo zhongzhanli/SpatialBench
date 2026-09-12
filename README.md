@@ -67,6 +67,7 @@ Examples include:
 * Seurat CCA
 * Seurat RPCA
 * BindSC
+* SWITCH
 
 See `benchmarker/script/multiomics/` for the implementations included in the benchmark.
 
